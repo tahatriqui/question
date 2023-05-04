@@ -7,7 +7,7 @@ const wrapperReact = wrapper.getBoundingClientRect();
 const noBtnReact = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click',() => {
-    question.innerHTML = 'Knt 3arfha hhhh&#128540' ;
+    question.innerHTML = 'hia nti sara hhhh&#128540' ;
 });
 
 
